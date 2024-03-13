@@ -1,7 +1,9 @@
 
-## <h1 align="center">HELLO😀🤍, Welcome My Profile!!!! </center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h1>
+## <h1 align="center">HELLO CODERS😀🤍, Welcome My Profile!!!! </center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="150"> </h1>
 
-<h3 align="center">**A Passionate Software Engineer from Sri Lanka**</h3>
+
+
+<h3 align="center">**A Passionate Software Engineer from Sri Lanka**  </h3>     
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imasha24&label=Profile%20views&color=0e75b6&style=flat" alt="imasha24" /> </p>
@@ -25,7 +27,7 @@
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imasha24" alt="imasha24" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java/Python/React**
 
@@ -39,7 +41,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/imasha-sewwandi/](https://www.linkedin.com/in/imasha-sewwandi/)
 
-- ⚡  **I once coded an entire project while upside down! (Don't worry, it was just for a coding challenge, but it definitely gave me a new perspective on problem-solving!) 🙃✨**
+- ⚡  **I once coded an entire project while upside down! (Don't worry, it was just for a coding challenge, but it definitely gave me a new perspective on problem-solving!) 🙃✨** 
 
 
 
@@ -71,6 +73,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhocunha/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jho_cunha/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jhonatan.cunha.9/)
+
+---
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imasha24" alt="imasha24" /></a> </p>
 
 
 
