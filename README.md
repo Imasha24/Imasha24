@@ -1,5 +1,5 @@
 
-## <h1 align="center">HELLO CODERS😀🤍, Welcome My Profile!!!! </center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="150"> </h1>
+## <h1 align="center">HELLO CODERS😀🤍!!!! </center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="150"> </h1>
 
 
 
