@@ -10,9 +10,7 @@
 
 
 <p align="center">
-	<a href="https://github.com/Shin-jongwhan">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Bioinformatics;cloud+architect;Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+<a href="https://github.com/itzzjb?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=0&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%8C%B1+Coder + in + the + land + of + ones + and + zeros+%F0%9F%8C%B1;%F0%9F%8C%B1+Forever + curious, forever + clueless!+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 </p>
 
 
